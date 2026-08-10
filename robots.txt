@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: ezhednevnye-bonusy.github.io
+Sitemap: https://ezhednevnye-bonusy.github.io/sitemap.xml
